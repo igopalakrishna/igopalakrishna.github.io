@@ -152,6 +152,14 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/igopalakrishna
+      
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/igopalakrishna"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ga2664@nyu.edu"
+      
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
