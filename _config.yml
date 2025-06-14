@@ -115,17 +115,17 @@ analytics:
 author:
   name             : "Gopala Krishna Abba"
   avatar           : # "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate ML Engineer & Researcher @ NYU | AI/ML, DL, MLOps, LLMs, Big Data"
+  bio              : "Graduate ML Engineer & Researcher @ NYU" #| AI/ML, DL, MLOps, LLMs, Big Data
   location         : "New York, NY"
   email            : "ga2664@nyu.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ga2664@nyu.edu"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:ga2664@nyu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://igopalakrishna.github.io"
-    - label: "Twitter/ X.com"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/igopalakrishna_"
     # - label: "Facebook"
@@ -145,13 +145,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://x.com/igopalakrishna_
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/igopalakrishna
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
