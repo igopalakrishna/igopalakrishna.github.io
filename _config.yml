@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Gopala Krishna Abba"
-  avatar           : # "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate ML Engineer & Researcher @ NYU" #| AI/ML, DL, MLOps, LLMs, Big Data
   location         : "New York, NY"
   email            : "ga2664@nyu.edu"
